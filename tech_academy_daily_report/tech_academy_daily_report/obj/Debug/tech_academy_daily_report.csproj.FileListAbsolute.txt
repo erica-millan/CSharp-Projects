@@ -1,0 +1,8 @@
+C:\Users\erica\Documents\CSharp-Projects\tech_academy_daily_report\tech_academy_daily_report\bin\Debug\tech_academy_daily_report.exe.config
+C:\Users\erica\Documents\CSharp-Projects\tech_academy_daily_report\tech_academy_daily_report\bin\Debug\tech_academy_daily_report.exe
+C:\Users\erica\Documents\CSharp-Projects\tech_academy_daily_report\tech_academy_daily_report\bin\Debug\tech_academy_daily_report.pdb
+C:\Users\erica\Documents\CSharp-Projects\tech_academy_daily_report\tech_academy_daily_report\obj\Debug\tech_academy_daily_report.csproj.AssemblyReference.cache
+C:\Users\erica\Documents\CSharp-Projects\tech_academy_daily_report\tech_academy_daily_report\obj\Debug\tech_academy_daily_report.csproj.CoreCompileInputs.cache
+C:\Users\erica\Documents\CSharp-Projects\tech_academy_daily_report\tech_academy_daily_report\obj\Debug\tech_academy_daily_report.exe
+C:\Users\erica\Documents\CSharp-Projects\tech_academy_daily_report\tech_academy_daily_report\obj\Debug\tech_academy_daily_report.pdb
+C:\Users\erica\Documents\CSharp-Projects\tech_academy_daily_report\tech_academy_daily_report\obj\Debug\tech_academy_daily_report.exe.config
