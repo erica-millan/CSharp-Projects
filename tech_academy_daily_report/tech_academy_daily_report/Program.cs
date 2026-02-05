@@ -21,7 +21,7 @@ namespace tech_academy_daily_report
 
             // all of the console.writeline and console.readline statements
             Console.WriteLine("Tech Academy");
-            Console.WriteLine("Welcome to the Tech Academy Daily Report!");
+            Console.WriteLine("Student Daily Report");
             Console.WriteLine("What is your name?");
             name = Console.ReadLine();
             Console.WriteLine("What course are you on?");
