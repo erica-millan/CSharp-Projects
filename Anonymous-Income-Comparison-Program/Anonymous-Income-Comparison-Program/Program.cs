@@ -12,7 +12,7 @@ namespace Anonymous_Income_Comparison_Program
         {
 
             Console.WriteLine("Anonymous Income Comparison Program");
-            //gettuing user input for person 1 and person 2
+            //getting user input for person 1 and person 2
             Console.WriteLine("Person 1 hourly rate?");
             decimal p1HourlyRate = Convert.ToDecimal(Console.ReadLine());
 
@@ -46,9 +46,15 @@ namespace Anonymous_Income_Comparison_Program
             //Method returns the result (true or false) and it gets stored in bool
             bool person1MakesMoreMoneyThanPerson2 = Person.p1GreaterThanp2(p1AnnualSalary, p2AnnualSalary);
 
-            //outputting that result that was stored in boolean
-            Console.WriteLine("Does Person 1 make more money than Person 2? " + person1MakesMoreMoneyThanPerson2);
+            //removing this line to follow best practices keeping for future reference of comparison
+            // Console.WriteLine("Does Person 1 make more money than Person 2? " + person1MakesMoreMoneyThanPerson2);
 
+            //outputting that result that was stored in boolean
+            //using string interpolation to make code clean and readable
+            //the $ before quotation mark tells c# that the string will use string interpolation
+            //meaning you can directly insert variables into the string.
+            //using the curly branches to insert the variable directly into the string 
+            Console.WriteLine($"Does Person 1 make more money than Person 2?\n{person1MakesMoreMoneyThanPerson2}");
         }
     }
 }
