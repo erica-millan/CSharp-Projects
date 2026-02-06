@@ -1,0 +1,8 @@
+C:\Users\erica\Documents\CSharp-Projects\Anonymous-Income-Comparison-Program\Anonymous-Income-Comparison-Program\bin\Debug\Anonymous-Income-Comparison-Program.exe.config
+C:\Users\erica\Documents\CSharp-Projects\Anonymous-Income-Comparison-Program\Anonymous-Income-Comparison-Program\bin\Debug\Anonymous-Income-Comparison-Program.exe
+C:\Users\erica\Documents\CSharp-Projects\Anonymous-Income-Comparison-Program\Anonymous-Income-Comparison-Program\bin\Debug\Anonymous-Income-Comparison-Program.pdb
+C:\Users\erica\Documents\CSharp-Projects\Anonymous-Income-Comparison-Program\Anonymous-Income-Comparison-Program\obj\Debug\Anonymous-Income-Comparison-Program.csproj.AssemblyReference.cache
+C:\Users\erica\Documents\CSharp-Projects\Anonymous-Income-Comparison-Program\Anonymous-Income-Comparison-Program\obj\Debug\Anonymous-Income-Comparison-Program.csproj.CoreCompileInputs.cache
+C:\Users\erica\Documents\CSharp-Projects\Anonymous-Income-Comparison-Program\Anonymous-Income-Comparison-Program\obj\Debug\Anonymous-Income-Comparison-Program.exe
+C:\Users\erica\Documents\CSharp-Projects\Anonymous-Income-Comparison-Program\Anonymous-Income-Comparison-Program\obj\Debug\Anonymous-Income-Comparison-Program.pdb
+C:\Users\erica\Documents\CSharp-Projects\Anonymous-Income-Comparison-Program\Anonymous-Income-Comparison-Program\obj\Debug\Anonymous-Income-Comparison-Program.exe.config
