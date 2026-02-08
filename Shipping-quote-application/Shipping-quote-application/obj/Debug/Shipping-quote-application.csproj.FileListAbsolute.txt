@@ -1,0 +1,8 @@
+C:\Users\erica\Documents\CSharp-Projects\Shipping-quote-application\Shipping-quote-application\bin\Debug\Shipping-quote-application.exe.config
+C:\Users\erica\Documents\CSharp-Projects\Shipping-quote-application\Shipping-quote-application\bin\Debug\Shipping-quote-application.exe
+C:\Users\erica\Documents\CSharp-Projects\Shipping-quote-application\Shipping-quote-application\bin\Debug\Shipping-quote-application.pdb
+C:\Users\erica\Documents\CSharp-Projects\Shipping-quote-application\Shipping-quote-application\obj\Debug\Shipping-quote-application.csproj.AssemblyReference.cache
+C:\Users\erica\Documents\CSharp-Projects\Shipping-quote-application\Shipping-quote-application\obj\Debug\Shipping-quote-application.csproj.CoreCompileInputs.cache
+C:\Users\erica\Documents\CSharp-Projects\Shipping-quote-application\Shipping-quote-application\obj\Debug\Shipping-quote-application.exe
+C:\Users\erica\Documents\CSharp-Projects\Shipping-quote-application\Shipping-quote-application\obj\Debug\Shipping-quote-application.pdb
+C:\Users\erica\Documents\CSharp-Projects\Shipping-quote-application\Shipping-quote-application\obj\Debug\Shipping-quote-application.exe.config
