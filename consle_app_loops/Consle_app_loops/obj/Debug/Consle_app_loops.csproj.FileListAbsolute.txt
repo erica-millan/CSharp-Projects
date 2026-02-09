@@ -1,0 +1,8 @@
+C:\Users\erica\Documents\CSharp-Projects\Consle_app_loops\Consle_app_loops\obj\Debug\Consle_app_loops.csproj.AssemblyReference.cache
+C:\Users\erica\Documents\CSharp-Projects\Consle_app_loops\Consle_app_loops\obj\Debug\Consle_app_loops.csproj.CoreCompileInputs.cache
+C:\Users\erica\Documents\CSharp-Projects\Consle_app_loops\Consle_app_loops\bin\Debug\Consle_app_loops.exe.config
+C:\Users\erica\Documents\CSharp-Projects\Consle_app_loops\Consle_app_loops\bin\Debug\Consle_app_loops.exe
+C:\Users\erica\Documents\CSharp-Projects\Consle_app_loops\Consle_app_loops\bin\Debug\Consle_app_loops.pdb
+C:\Users\erica\Documents\CSharp-Projects\Consle_app_loops\Consle_app_loops\obj\Debug\Consle_app_loops.exe
+C:\Users\erica\Documents\CSharp-Projects\Consle_app_loops\Consle_app_loops\obj\Debug\Consle_app_loops.pdb
+C:\Users\erica\Documents\CSharp-Projects\Consle_app_loops\Consle_app_loops\obj\Debug\Consle_app_loops.exe.config
