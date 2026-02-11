@@ -1,0 +1,8 @@
+C:\Users\erica\Documents\CSharp-Projects\Array_practice\Array_practice\bin\Debug\Array_practice.exe.config
+C:\Users\erica\Documents\CSharp-Projects\Array_practice\Array_practice\bin\Debug\Array_practice.exe
+C:\Users\erica\Documents\CSharp-Projects\Array_practice\Array_practice\bin\Debug\Array_practice.pdb
+C:\Users\erica\Documents\CSharp-Projects\Array_practice\Array_practice\obj\Debug\Array_practice.csproj.AssemblyReference.cache
+C:\Users\erica\Documents\CSharp-Projects\Array_practice\Array_practice\obj\Debug\Array_practice.csproj.CoreCompileInputs.cache
+C:\Users\erica\Documents\CSharp-Projects\Array_practice\Array_practice\obj\Debug\Array_practice.exe
+C:\Users\erica\Documents\CSharp-Projects\Array_practice\Array_practice\obj\Debug\Array_practice.pdb
+C:\Users\erica\Documents\CSharp-Projects\Array_practice\Array_practice\obj\Debug\Array_practice.exe.config
