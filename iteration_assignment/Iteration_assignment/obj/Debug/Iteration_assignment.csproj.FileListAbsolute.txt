@@ -1,0 +1,8 @@
+C:\Users\erica\Documents\CSharp-Projects\Iteration_assignment\Iteration_assignment\bin\Debug\Iteration_assignment.exe.config
+C:\Users\erica\Documents\CSharp-Projects\Iteration_assignment\Iteration_assignment\bin\Debug\Iteration_assignment.exe
+C:\Users\erica\Documents\CSharp-Projects\Iteration_assignment\Iteration_assignment\bin\Debug\Iteration_assignment.pdb
+C:\Users\erica\Documents\CSharp-Projects\Iteration_assignment\Iteration_assignment\obj\Debug\Iteration_assignment.csproj.AssemblyReference.cache
+C:\Users\erica\Documents\CSharp-Projects\Iteration_assignment\Iteration_assignment\obj\Debug\Iteration_assignment.csproj.CoreCompileInputs.cache
+C:\Users\erica\Documents\CSharp-Projects\Iteration_assignment\Iteration_assignment\obj\Debug\Iteration_assignment.exe
+C:\Users\erica\Documents\CSharp-Projects\Iteration_assignment\Iteration_assignment\obj\Debug\Iteration_assignment.pdb
+C:\Users\erica\Documents\CSharp-Projects\Iteration_assignment\Iteration_assignment\obj\Debug\Iteration_assignment.exe.config
