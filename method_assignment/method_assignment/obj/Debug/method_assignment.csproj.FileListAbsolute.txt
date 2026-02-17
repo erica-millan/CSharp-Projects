@@ -1,0 +1,8 @@
+C:\Users\erica\Documents\CSharp-Projects\method_assignment\method_assignment\bin\Debug\method_assignment.exe.config
+C:\Users\erica\Documents\CSharp-Projects\method_assignment\method_assignment\bin\Debug\method_assignment.exe
+C:\Users\erica\Documents\CSharp-Projects\method_assignment\method_assignment\bin\Debug\method_assignment.pdb
+C:\Users\erica\Documents\CSharp-Projects\method_assignment\method_assignment\obj\Debug\method_assignment.csproj.AssemblyReference.cache
+C:\Users\erica\Documents\CSharp-Projects\method_assignment\method_assignment\obj\Debug\method_assignment.csproj.CoreCompileInputs.cache
+C:\Users\erica\Documents\CSharp-Projects\method_assignment\method_assignment\obj\Debug\method_assignment.exe
+C:\Users\erica\Documents\CSharp-Projects\method_assignment\method_assignment\obj\Debug\method_assignment.pdb
+C:\Users\erica\Documents\CSharp-Projects\method_assignment\method_assignment\obj\Debug\method_assignment.exe.config
