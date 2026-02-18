@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F46B0984-6627-4F84-9240-FBA48ED03CD6}</ProjectGuid>
+    <ProjectGuid>{E08D5EE8-C75C-4F1F-ADBF-0E7D97734ADC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>VoidMethodAssignment</RootNamespace>
-    <AssemblyName>VoidMethodAssignment</AssemblyName>
+    <RootNamespace>MethodOverloadAssignment</RootNamespace>
+    <AssemblyName>MethodOverloadAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MathOperations.cs" />
+    <Compile Include="MethodPractice.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
