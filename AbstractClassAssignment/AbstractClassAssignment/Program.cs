@@ -20,6 +20,17 @@ namespace AbstractClassAssignment
 
             //calling say name
             employee.SayName();
+
+            //using polymorphism to create an object of type IQuittable and call Quit() on it
+            //an object can be of an interface type if it implements that specific interface.
+            //an employee can be treated as an iquitable because employee implements the interface
+
+            //creating an iquitable reference pointing to an employee object
+            IQuittable quitter = employee;
+
+            //call quit() 
+            quitter.Quit();
+
         }
     }
 }

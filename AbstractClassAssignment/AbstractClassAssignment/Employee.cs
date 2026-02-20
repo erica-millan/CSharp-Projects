@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace AbstractClassAssignment
 {
     //employee class that inherits person
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         //Person has abstract method called SayuName which we HAVE to implement.
         //we have to use the override keyword, and that satisfied the contract that we will
@@ -17,6 +17,12 @@ namespace AbstractClassAssignment
             //we are inside the employee object itself so i dont have to say employee.first name etc
             //same at this.firstname, and this refers to the current object
             Console.WriteLine("Name: " + FirstName + " " + LastName);
+        }
+
+        //implement the quit method from iquitable
+        public void Quit()
+        {
+            Console.WriteLine(FirstName + " " + LastName + ", congrats for quitting.");
         }
     }
 }
