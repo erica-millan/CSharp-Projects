@@ -1,0 +1,7 @@
+C:\Users\erica\Documents\CSharp-Projects\GenericParameterAssignment\GenericParameterAssignment\obj\Debug\GenericParameterAssignment.csproj.AssemblyReference.cache
+C:\Users\erica\Documents\CSharp-Projects\GenericParameterAssignment\GenericParameterAssignment\obj\Debug\GenericParameterAssignment.csproj.CoreCompileInputs.cache
+C:\Users\erica\Documents\CSharp-Projects\GenericParameterAssignment\GenericParameterAssignment\bin\Debug\GenericParameterAssignment.exe.config
+C:\Users\erica\Documents\CSharp-Projects\GenericParameterAssignment\GenericParameterAssignment\bin\Debug\GenericParameterAssignment.exe
+C:\Users\erica\Documents\CSharp-Projects\GenericParameterAssignment\GenericParameterAssignment\bin\Debug\GenericParameterAssignment.pdb
+C:\Users\erica\Documents\CSharp-Projects\GenericParameterAssignment\GenericParameterAssignment\obj\Debug\GenericParameterAssignment.exe
+C:\Users\erica\Documents\CSharp-Projects\GenericParameterAssignment\GenericParameterAssignment\obj\Debug\GenericParameterAssignment.pdb

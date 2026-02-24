@@ -19,6 +19,8 @@ namespace OperatorsAssignment
             // third employee object with a different id than employee 1 and 2
             Employee employee3 = new Employee { id = "222", FirstName = "Andrew", LastName = "Miller" };
 
+            //testing overloading operators
+            //== and !=. == checks if employee ids match and != checks if they match, then returns the opposite
             Console.WriteLine("Employee 1 == Employee 2 (same ids):");
             Console.WriteLine(employee1 == employee2); // calling overloaded == operator prints true
 
