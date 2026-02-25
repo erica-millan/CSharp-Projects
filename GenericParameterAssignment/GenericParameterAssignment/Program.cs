@@ -42,7 +42,6 @@ namespace GenericParameterAssignment
                 Console.WriteLine(thing);
             }
 
-
         }
 
     }
