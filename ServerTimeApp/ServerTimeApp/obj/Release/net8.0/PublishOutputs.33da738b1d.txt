@@ -1,0 +1,7 @@
+C:\Users\erica\Documents\CSharp-Projects\ServerTimeApp\ServerTimeApp\obj\Release\net8.0\PubTmp\Out\ServerTimeApp.exe
+C:\Users\erica\Documents\CSharp-Projects\ServerTimeApp\ServerTimeApp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\erica\Documents\CSharp-Projects\ServerTimeApp\ServerTimeApp\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\erica\Documents\CSharp-Projects\ServerTimeApp\ServerTimeApp\obj\Release\net8.0\PubTmp\Out\ServerTimeApp.dll
+C:\Users\erica\Documents\CSharp-Projects\ServerTimeApp\ServerTimeApp\obj\Release\net8.0\PubTmp\Out\ServerTimeApp.deps.json
+C:\Users\erica\Documents\CSharp-Projects\ServerTimeApp\ServerTimeApp\obj\Release\net8.0\PubTmp\Out\ServerTimeApp.runtimeconfig.json
+C:\Users\erica\Documents\CSharp-Projects\ServerTimeApp\ServerTimeApp\obj\Release\net8.0\PubTmp\Out\ServerTimeApp.pdb

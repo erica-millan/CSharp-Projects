@@ -1,0 +1,12 @@
+C:\Users\erica\Documents\CSharp-Projects\StudentCodeFirstApp\StudentCodeFirstApp\bin\Debug\StudentCodeFirstApp.exe.config
+C:\Users\erica\Documents\CSharp-Projects\StudentCodeFirstApp\StudentCodeFirstApp\bin\Debug\StudentCodeFirstApp.exe
+C:\Users\erica\Documents\CSharp-Projects\StudentCodeFirstApp\StudentCodeFirstApp\bin\Debug\StudentCodeFirstApp.pdb
+C:\Users\erica\Documents\CSharp-Projects\StudentCodeFirstApp\StudentCodeFirstApp\bin\Debug\EntityFramework.dll
+C:\Users\erica\Documents\CSharp-Projects\StudentCodeFirstApp\StudentCodeFirstApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erica\Documents\CSharp-Projects\StudentCodeFirstApp\StudentCodeFirstApp\bin\Debug\EntityFramework.xml
+C:\Users\erica\Documents\CSharp-Projects\StudentCodeFirstApp\StudentCodeFirstApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erica\Documents\CSharp-Projects\StudentCodeFirstApp\StudentCodeFirstApp\obj\Debug\StudentCodeFirstApp.csproj.AssemblyReference.cache
+C:\Users\erica\Documents\CSharp-Projects\StudentCodeFirstApp\StudentCodeFirstApp\obj\Debug\StudentCodeFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\erica\Documents\CSharp-Projects\StudentCodeFirstApp\StudentCodeFirstApp\obj\Debug\StudentC.5D5694BF.Up2Date
+C:\Users\erica\Documents\CSharp-Projects\StudentCodeFirstApp\StudentCodeFirstApp\obj\Debug\StudentCodeFirstApp.exe
+C:\Users\erica\Documents\CSharp-Projects\StudentCodeFirstApp\StudentCodeFirstApp\obj\Debug\StudentCodeFirstApp.pdb
